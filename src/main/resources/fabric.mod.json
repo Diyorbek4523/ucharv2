@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "uchar",
+	"version": "${version}",
+	"name": "Uchar",
+	"description": "G - uchish, H - uchish tezligi, P - portal, V - devordan o'tish, R - uzoqdan urish, B - tez yurish, N - yurish tezligi, K - avtomatik urish, L - kimni urish, J - Auto Tool, U - elytra boost, I - elytra tezligi.",
+	"authors": ["Uchar"],
+	"license": "CC0-1.0",
+	"icon": "assets/uchar/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["uz.uchar.UcharClient", "uz.uchar.UzoqClient", "uz.uchar.AutoToolClient", "uz.uchar.ElytraClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,15 @@
+{
+ "key.uchar.toggle": "Uchishni yoqish/o'chirish",
+ "key.uchar.speed": "Uchish tezligi",
+ "key.categories.uchar": "Uchar",
+ "key.uchar.portal": "End portalini qidirish",
+ "key.uchar.clip": "Devordan o'tish",
+ "key.uzoq.toggle": "Uzoqdan urishni yoqish/o'chirish",
+ "key.uzoq.speed": "Tez yurishni yoqish/o'chirish",
+ "key.uzoq.speedlevel": "Yurish tezligi",
+ "key.uzoq.aura": "Avtomatik urish",
+ "key.uzoq.auramode": "Avtomatik urish: kimni urish",
+ "key.uchar.autotool": "Auto Tool",
+ "key.uchar.elytra": "Elytra boost",
+ "key.uchar.elytraspeed": "Elytra tezligi"
+}
